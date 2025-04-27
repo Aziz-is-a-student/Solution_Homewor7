@@ -1,6 +1,6 @@
 package Part1;
 
-// Class Part1.Episode
+// Класс одного эпизода
 public class Episode {
     private final String title;
     private final int runtimeSec;
